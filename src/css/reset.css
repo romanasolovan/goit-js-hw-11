@@ -45,7 +45,13 @@ img {
 }
 
 body {
-  background-color: antiquewhite;
+  background: linear-gradient(
+    145deg,
+    #dfe9f3 0%,
+    #e4d8f9 40%,
+    #f5f3c1 75%,
+    #cfd9df 100%
+  );
 }
 
 .container {
