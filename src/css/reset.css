@@ -52,6 +52,9 @@ body {
     #f5f3c1 75%,
     #cfd9df 100%
   );
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .container {
